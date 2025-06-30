@@ -22,4 +22,4 @@
   <p>Si no sos redirigido automáticamente, <a href="https://www.youtube.com/watch?v=GBIIQ0kP15E">hacé clic acá</a>.</p>
 </body>
 </html>
-
+agregada redirección
